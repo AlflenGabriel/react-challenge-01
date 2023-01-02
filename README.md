@@ -1,3 +1,20 @@
+# React Interview Challenge.
+
+Desenvolva uma aplicação em que:
+
+- o usuário pode clicar em qualquer lugar da página.
+- deve-se renderizar um pequeno círculo na posição clicada.
+- a cada clique, mantém-se os círculos já criados e renderiza-se um novo.
+- crie duas funcionalidades para a aplicação:
+    - desfazer (undo)
+    - refazer (redo)
+    
+    
+![Alt Text](https://media3.giphy.com/media/KxD8rIZqXcQhE0SMnF/giphy.gif?cid=790b7611672ef826e01f9e8dd4e2a062a3abe2af6d45222b&rid=giphy.gif&ct=g)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
